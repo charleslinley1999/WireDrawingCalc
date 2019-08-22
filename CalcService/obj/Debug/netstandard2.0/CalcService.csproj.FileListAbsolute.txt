@@ -1,0 +1,8 @@
+/Users/charles/Projects/WireDrawingCalcForMac/CalcService/bin/Debug/netstandard2.0/CalcService.deps.json
+/Users/charles/Projects/WireDrawingCalcForMac/CalcService/bin/Debug/netstandard2.0/CalcService.dll
+/Users/charles/Projects/WireDrawingCalcForMac/CalcService/bin/Debug/netstandard2.0/CalcService.pdb
+/Users/charles/Projects/WireDrawingCalcForMac/CalcService/obj/Debug/netstandard2.0/CalcService.csproj.CoreCompileInputs.cache
+/Users/charles/Projects/WireDrawingCalcForMac/CalcService/obj/Debug/netstandard2.0/CalcService.AssemblyInfoInputs.cache
+/Users/charles/Projects/WireDrawingCalcForMac/CalcService/obj/Debug/netstandard2.0/CalcService.AssemblyInfo.cs
+/Users/charles/Projects/WireDrawingCalcForMac/CalcService/obj/Debug/netstandard2.0/CalcService.dll
+/Users/charles/Projects/WireDrawingCalcForMac/CalcService/obj/Debug/netstandard2.0/CalcService.pdb
